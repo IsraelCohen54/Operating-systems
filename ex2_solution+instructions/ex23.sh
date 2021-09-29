@@ -1,5 +1,5 @@
 #!/bin/bash
-# Israel Cohen 205812290
+# Israel Cohen
 
 # The prog run assuming we have files hostnamectl, os-release in same dir.
 # and same flag doesn't printed again
