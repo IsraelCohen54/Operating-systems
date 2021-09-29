@@ -1,4 +1,4 @@
-// Israel Cohen 205812290
+// Israel Cohen
 #include <stdio.h>
 #include <signal.h>
 #include <unistd.h>
