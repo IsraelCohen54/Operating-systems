@@ -1,4 +1,4 @@
-// Israel Cohen 205812290
+// Israel Cohen
 #include <string.h>
 #include <sys/wait.h>
 #include <time.h> //hope its ok to check time running...
