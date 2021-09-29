@@ -1,5 +1,5 @@
 #!/bin/bash
-# Israel Cohen 205812290
+# Israel Cohen
 
 if [ "$#" -ne 4 ];
   then
