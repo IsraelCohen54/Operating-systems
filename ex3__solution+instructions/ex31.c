@@ -1,4 +1,4 @@
-// Israel Cohen 205812290
+// Israel Cohen
 #include <ctype.h>
 #include <sys/fcntl.h>
 #include <stdlib.h>
