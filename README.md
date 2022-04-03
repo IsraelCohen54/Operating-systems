@@ -5,4 +5,4 @@ ex2: Working with linux - bash coding
 
 ex3: Working with files
 
-ex4: Working with threads
+ex4: Working with threads (threads pool)
