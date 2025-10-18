@@ -299,7 +299,7 @@ int main(void) {
         }
       }
       */
-        //~~~~~~~~~~~~~~~~~~~~Todo delete all procceses (meybe through jobs) than exit.~~~~~~~~~~~~~~~~~~~~
+        //~~~~~~~~~~~~~~~~~~~~Todo delete all procceses (maybe through jobs) than exit.~~~~~~~~~~~~~~~~~~~~
         //waited0=wait(&stat0);
        exit(0);
        return 0;
